@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://mementodb.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Memento Blog
+subtitle:  Announcements, news, tips and tricks from the team at Memento.
+author: Himanshu Gilani
 simple_search: http://google.com/search
-description:
+description: Memento is a bookmarking service that converts the entire bookmarked page into markdown
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: memento_db
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
