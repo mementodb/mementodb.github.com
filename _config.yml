@@ -5,9 +5,10 @@
 url: http://mementodb.github.com
 title: Memento Blog
 subtitle:  Announcements, news, tips and tricks from the team at Memento.
-author: Himanshu Gilani
+author: Memento
 simple_search: http://google.com/search
 description: Memento is a bookmarking service that converts the entire bookmarked page into markdown
+keywords: online,bookmarking,service,archive,save,webpage,page,markdown
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -27,12 +28,12 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
@@ -43,9 +44,11 @@ excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of 
 
 titlecase: true       # Converts page and post titles to titlecase
 
+footer: true
+
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/email.html, asides/recent_posts.html, asides/github.html, asides/facebook.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/social.html, asides/recent_posts.html,  asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.

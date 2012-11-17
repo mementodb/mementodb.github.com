@@ -37,6 +37,20 @@
 //$solar-green:     #859900;
 
 
+$header-bg: #252525;
+$page-bg: #DDDDDD;
+$footer-bg: #252525;
+$sidebar-bg: #F9F9F9;
+$main-bg: #F9F9F9;
+$title-color: #FFFFFF;
+$subtitle-color: #FFFFFF;
+$text-color: #333333;
+$text-color-light: #839496;
+$footer-bg-back: linear-gradient($footer-bg, darken($footer-bg, 8));
+
+/* To use the light Solarized highlighting theme uncomment the following line */
+// $solarized: dark;
+
 /* Non highlighted code colors */
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
