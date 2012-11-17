@@ -4,7 +4,7 @@
   <title><![CDATA[Category: productivity | Memento Blog]]></title>
   <link href="http://mementodb.github.com/categories/productivity/atom.xml" rel="self"/>
   <link href="http://mementodb.github.com/"/>
-  <updated>2012-11-17T12:10:01+01:00</updated>
+  <updated>2012-11-17T12:50:01+01:00</updated>
   <id>http://mementodb.github.com/</id>
   <author>
     <name><![CDATA[Memento]]></name>
@@ -18,22 +18,39 @@
     <link href="http://mementodb.github.com/2012/11/08/inroducing-memento/"/>
     <updated>2012-11-08T12:23:00+01:00</updated>
     <id>http://mementodb.github.com/2012/11/08/inroducing-memento</id>
-    <content type="html"><![CDATA[<p>Here is a wonderful application that allows you to save any web page that you like. It is your personal space with all that you like on the web. Some space that you can access whenver you like. You can create an account at <a href="http://www.mementodb.com">www.mementodb.com</a></p>
+    <content type="html"><![CDATA[<p>Here is a wonderful online bookmarking application that allows you to save any web page that you like. We go beyond bookmarking and also archive the full-text of the page that you bookmark. You can think of memento as your personal inbox with all that you like on the web. <a href="http://www.mementodb.com/signup">Signup now for your free account</a>. It's quick and easy.</p>
 
 <h2>What are mementos?</h2>
 
-<p>Mementos are anything that you save using this application. You can think of a memento as a copy of the entire web page saved into your account for you to <strong>"use"</strong> later. When we say <strong>"use"</strong> we really mean you should be able to read, edit or print the mementos. For creating mementos we convert web pages that you want to collect into a text format that any one can edit without understanding the techonolgies of the web.</p>
-
-<!-- more -->
-
+<p>Mementos are anything that you save using this application. You can think of a memento as a copy of the entire web page bookmarked and archived into your personal account for you to <strong>"use"</strong> later. When we say <strong>"use"</strong> we really mean you should be able to read, edit or print the mementos. For creating mementos we convert web pages that you want to collect into a Markdown, an awesome text format, that any one can edit without understanding the techonolgies of the web (HTML, CSS, and Javascript).</p>
 
 <h2>Why Use Memento?</h2>
 
 <p>Web is constantly changing, pages that you bookmark today may vanish tomorrow. But what if you found something on web that you want to keep as a personal memento. With Memento you can <strong>Save</strong>, <strong>Collect</strong> and <strong>Use</strong> your web.</p>
 
+<p>Archived web page is not a dumb read only copy of the original page. It's an agile copy in <a href="">Markdwon</a> format. Markdown is the simple and best format out there that anyone can edit. We also provide ability to highlight, annotate, collaborate and share with your friends. For</p>
+
+<h2>Why should use Memento?</h2>
+
+<p>You should use memento</p>
+
+<ol>
+<li>If you never want to loose any page on the web to 404 error.</li>
+<li>It's perfect for collaborating with your friends and colleague for sharing the research and collaborating .</li>
+<li>If you want to organize everything you are bookmarking painlessly.</li>
+<li>If you want to keep everything private like your email inbox but with the ability to share with friends.</li>
+<li>Its free, awesome, and the best online bookmarking service.</li>
+</ol>
+
+
+<h2>Why we use Markdown?</h2>
+
 <h2>How it Works?</h2>
 
 <p>Memento provides a bookmarklet that converts the web page you want to keep into Markdown and saves it to your account.</p>
+
+<!-- more -->
+
 
 <h2>Memento Features</h2>
 
@@ -66,7 +83,7 @@
 
 <h2>Feedback, Ideas or Suggestions</h2>
 
-<p>If you have any ideas, feedback, or suggestions for improving Memento then please email me at hgilani[at]gmail[dot]com</p>
+<p>If you have any ideas, feedback, or suggestions for improving Memento then please email me at hgilani[at]mementodb[dot]com</p>
 ]]></content>
   </entry>
   
