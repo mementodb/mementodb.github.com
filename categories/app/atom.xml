@@ -4,7 +4,7 @@
   <title><![CDATA[Category: app | Memento Blog]]></title>
   <link href="http://mementodb.github.com/categories/app/atom.xml" rel="self"/>
   <link href="http://mementodb.github.com/"/>
-  <updated>2012-11-17T10:13:25+01:00</updated>
+  <updated>2012-11-17T11:02:03+01:00</updated>
   <id>http://mementodb.github.com/</id>
   <author>
     <name><![CDATA[Memento]]></name>
@@ -23,6 +23,9 @@
 <h2>What are mementos?</h2>
 
 <p>Mementos are anything that you save using this application. You can think of a memento as a copy of the entire web page saved into your account for you to <strong>"use"</strong> later. When we say <strong>"use"</strong> we really mean you should be able to read, edit or print the mementos. For creating mementos we convert web pages that you want to collect into a text format that any one can edit without understanding the techonolgies of the web.</p>
+
+<!-- more -->
+
 
 <h2>Why Use Memento?</h2>
 
