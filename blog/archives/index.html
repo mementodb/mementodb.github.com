@@ -113,9 +113,33 @@ Nov 08 2012 posted in Markdown, app, memento, productivity, tools Join over 2,50
   
     <p id="subscribe-callout">Join over 2,500 other good looking people who receive free email updates!<em></em></p>
 
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mementodb', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="mementodb" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
-<section>
+<<article class="widget_subscribe">
+	<div>
+		<h6>Email Updates</h6>
+		
+		<form class="nice custom" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mementodb', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify" style="">
+			<input type="email" class="input-text" placeholder="Your email" name="email">
+			<input type="hidden" name="uri" value="mementodb">
+			<input type="hidden" value="en_US" name="loc"> 
+			<input type="submit" id="emailsubscribe" class="white nice button radius" value="Join Us">
+			<p>We hate spam as much as you! Unsubscribe any time.</p>
+		</form>
+	</div>
+</article>
+<br/><br/>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mementodb', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+	<p>Email Updates:</p>
+	<p>
+		<input type="text" style="width:140px" name="email"/>
+	</p>
+	<input type="hidden" value="mementodb" name="uri"/>
+	<input type="hidden" name="loc" value="en_US"/>
+	<input type="submit" value="Subscribe" />
+	<p>
+		Delivered by
+		<a href="http://feedburner.google.com" target="_blank">FeedBurner</a>
+	</p>
+</form><section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
